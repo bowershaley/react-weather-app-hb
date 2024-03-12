@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container m-0">
         <Weather />
-        <footer>
+        <footer className="text-center">
           This website was coded by{" "}
           <a
             href="https://github.com/bowershaley"
